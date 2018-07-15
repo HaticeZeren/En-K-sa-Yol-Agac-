@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1460542996 source:c:\users\casper\desktop\baslangic\main.cpp
+	<iostream>
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1460542996 source:c:\users\casper\desktop\en kýsa yol agacý\main.cpp
+	<iostream>
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
